@@ -51,6 +51,21 @@ section {
 }
 
 .banner p {
-    font-size: 1.25 rem;
+    font-size: 1.25rem;
     margin: 16px 0 24px;
+}
+
+.banner .logo {
+    background-color: rgba(0, 0, 0, .2);
+    height: 260px;
+    width: 260px;
+    margin: auto;
+    border-radius: 50%;
+    padding: 16px;
+    margin-bottom: 16px;
+
+}
+
+.banner .logo img {
+    margin:auto;
 }
